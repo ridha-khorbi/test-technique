@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.influencer{
+ height: 0;
+}
+.rounded{
+  margin-right: 20px!important;
+ 
+}
+.table{
+  margin-top: 18px!important;
+}
+
+.namebrand{
+  margin-top: 20px;
+}
+td 
+{
+    text-align: center; 
+}
+th 
+{
+    text-align: center; 
+}
+.influ{
+  display: flex;
+}
+.email{
+  margin-left:15px;
+  text-align: left;
+}
+.back{
+  transform: rotate(180deg);
+}
+.monthBtn{
+  cursor: pointer;
+}
